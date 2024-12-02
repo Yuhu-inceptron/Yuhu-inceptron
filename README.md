@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hu Yu
-- 👀 I’m interested in 
+- 👀 I’m interested in gym training and music
 - 🌱 I’m currently learning TVM and LLMs
 - 💞️ I’m looking to collaborate on ...
 - 📫 yuhu.kth [at] gmail.com
