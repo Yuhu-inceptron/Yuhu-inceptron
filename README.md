@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 yuhu.kth [at] gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: very boring 
+- ⚡ Fun fact: I'm not fun at all 
 
 <!---
 Yuhu-inceptron/Yuhu-inceptron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
